@@ -1,6 +1,6 @@
 # Advanced Web Application.
 
-## [demo](http://ccuresearch.coastal.edu/spward/csci409sp18/)
+### [demo](http://ccuresearch.coastal.edu/spward/csci409sp18/)
 
 ## Features:
 ### Front-end
@@ -16,6 +16,6 @@
 ### Backend
 * SQL database
 
-## Frameworks
+### Frameworks
 * Bootstrap 4
 * Phpmailer
