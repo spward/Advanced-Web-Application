@@ -11,10 +11,10 @@
 ### Authentication System
 * Register
 * Login
-* Edit and View Categories
   
 ### Backend
 * SQL database
+* Edit and View Categories
 
 ### Frameworks
 * Bootstrap 4
