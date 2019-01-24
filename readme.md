@@ -1,5 +1,5 @@
 # Advanced Web Application.
-
+This is a project made for csci409, Advanced Web Application Development, at Coastal Carolina University 
 ### [demo](http://ccuresearch.coastal.edu/spward/csci409sp18/)
 
 ## Features:
@@ -19,3 +19,9 @@
 ### Frameworks
 * Bootstrap 4
 * Phpmailer
+
+### Languages
+* html
+* css
+* javascript
+* php
