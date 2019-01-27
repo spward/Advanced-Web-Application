@@ -2,25 +2,25 @@
 This is a project made for csci409, Advanced Web Application Development, at Coastal Carolina University. 
 ### [demo](http://ccuresearch.coastal.edu/spward/csci409sp18/)
 
-## Features:
-### Front-end
+# Features:
+## Front-end
 * Contact Page
 * Blog
 * Welcome back message
   
-### Authentication System
+## Authentication System
 * Register
 * Login
   
-### Backend
+## Backend
 * SQL database
 * Edit and View Categories
 
-### Frameworks
+## Frameworks
 * Bootstrap 4
 * Phpmailer
 
-### Languages
+## Languages
 * html
 * css
 * javascript
